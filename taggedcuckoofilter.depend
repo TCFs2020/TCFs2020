@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1431416412 source:c:\users\kwanhuang\desktop\multiple-choice fingerprint filter\mff\experiment 2\codes 2015.05.06\cuckoofilter\cuckoofilter.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<assert.h>
+	<fstream>
+	<math.h>
+	<bitset>
+	"cuckoofilter.h"
+
+1431324264 c:\users\kwanhuang\desktop\multiple-choice fingerprint filter\mff\experiment 2\codes 2015.05.06\cuckoofilter\cuckoofilter.h
+	"murmurhash3.h"
+
+1418215278 c:\users\kwanhuang\desktop\multiple-choice fingerprint filter\mff\experiment 2\codes 2015.05.06\cuckoofilter\murmurhash3.h
+	<stdint.h>
+
+1430991871 source:c:\users\kwanhuang\desktop\multiple-choice fingerprint filter\mff\experiment 2\codes 2015.05.06\cuckoofilter\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<dir.h>
+	<math.h>
+	<string.h>
+	<exception>
+	"cuckoofilter.h"
+
+1429239215 source:c:\users\kwanhuang\desktop\multiple-choice fingerprint filter\mff\experiment 2\codes 2015.05.06\cuckoofilter\murmurhash3.cpp
+	<algorithm>
+	<string.h>
+	"murmurhash3.h"
+
+1437617535 source:d:\黄昆工作文件夹\generalized cuckoo filter\multiple-choice fingerprint filter\experiment 2\codes\cuckoofilter\cf-positive-fraction\cuckoofilter\cuckoofilter.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<assert.h>
+	<fstream>
+	<math.h>
+	<bitset>
+	"cuckoofilter.h"
+
+1437617238 d:\黄昆工作文件夹\generalized cuckoo filter\multiple-choice fingerprint filter\experiment 2\codes\cuckoofilter\cf-positive-fraction\cuckoofilter\cuckoofilter.h
+	"murmurhash3.h"
+
+1418215278 d:\黄昆工作文件夹\generalized cuckoo filter\multiple-choice fingerprint filter\experiment 2\codes\cuckoofilter\cf-positive-fraction\cuckoofilter\murmurhash3.h
+	<stdint.h>
+
+1437632977 source:d:\黄昆工作文件夹\generalized cuckoo filter\multiple-choice fingerprint filter\experiment 2\codes\cuckoofilter\cf-positive-fraction\cuckoofilter\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<dir.h>
+	<math.h>
+	<string.h>
+	<exception>
+	"cuckoofilter.h"
+
+1429239215 source:d:\黄昆工作文件夹\generalized cuckoo filter\multiple-choice fingerprint filter\experiment 2\codes\cuckoofilter\cf-positive-fraction\cuckoofilter\murmurhash3.cpp
+	<algorithm>
+	<string.h>
+	"murmurhash3.h"
+
+1447319388 source:d:\黄昆工作文件夹\extended cuckoo filter\extended cuckoo filter\experiment 2\codes-2^20-test accesses\cuckoofilter\cf-positive-fraction\cuckoofilter\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<dir.h>
+	<math.h>
+	<string.h>
+	<exception>
+	"cuckoofilter.h"
+
+1447319280 d:\黄昆工作文件夹\extended cuckoo filter\extended cuckoo filter\experiment 2\codes-2^20-test accesses\cuckoofilter\cf-positive-fraction\cuckoofilter\cuckoofilter.h
+	"murmurhash3.h"
+
+1418215278 d:\黄昆工作文件夹\extended cuckoo filter\extended cuckoo filter\experiment 2\codes-2^20-test accesses\cuckoofilter\cf-positive-fraction\cuckoofilter\murmurhash3.h
+	<stdint.h>
+
+1429239215 source:d:\黄昆工作文件夹\extended cuckoo filter\extended cuckoo filter\experiment 2\codes-2^20-test accesses\cuckoofilter\cf-positive-fraction\cuckoofilter\murmurhash3.cpp
+	<algorithm>
+	<string.h>
+	"murmurhash3.h"
+
+1467787326 source:c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\cuckoofilter\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<dir.h>
+	<math.h>
+	<string.h>
+	<exception>
+	"cuckoofilter.h"
+
+1467792622 c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\cuckoofilter\cuckoofilter.h
+	"murmurhash3.h"
+
+1418215278 c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\cuckoofilter\murmurhash3.h
+	<stdint.h>
+
+1429239215 source:c:\users\baihuang\desktop\bloom filter\variable fingerprint cuckoo filter\code-2\cuckoofilter\murmurhash3.cpp
+	<algorithm>
+	<string.h>
+	"murmurhash3.h"
+
