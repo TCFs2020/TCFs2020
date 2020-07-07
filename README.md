@@ -1,1 +1,3 @@
 # TCFs2020
+
+We propose a tagging approach to scalable cuckoo filters called tagged cuckoo filters (TCFs). The TCF is an improved variant of the cuckoo filter (CF) that aims to improve the space efficiency while sustaining high performance. The TCF uses the XOR operation based on a tagged fingerprint of an item, instead of an untagged fingerprint used by the CF, to compute the indexes of its two candidate buckets. It uses a tag of a fingerprint as an indicator to compute the actual index of the bucket that stores the fingerprint. Therefore, the TCF does not require that the number of buckets must be a power of two, which results in lower space cost per item while sustaining high performance comparable to the CF.
